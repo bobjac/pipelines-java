@@ -1,4 +1,6 @@
 
+[![Build Status](https://bobjacvso.visualstudio.com/PartsUnlimited/_apis/build/status/bobjac.pipelines-java?branchName=master)](https://bobjacvso.visualstudio.com/PartsUnlimited/_build/latest?definitionId=21&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
